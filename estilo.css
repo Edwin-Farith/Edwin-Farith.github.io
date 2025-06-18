@@ -1,0 +1,25 @@
+#sup{
+	background-color:black;
+	 font-size: 80;
+	 font-family: arial;
+	 text-align: center;
+}
+
+#titulo{
+	font-size:150;
+   font-family: helveca;
+    text-align: center;
+    color: white;
+}
+
+#pie{
+	font-size: 16;
+	font-family: arial;
+	text-align: center;
+	background-color:white;
+	color:blue;
+}
+
+body{
+	background-image: url(¨carpeta1/fondo.jpg¨);
+}
